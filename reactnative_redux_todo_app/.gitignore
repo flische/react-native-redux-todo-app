@@ -1,7 +1,10 @@
 # OSX
 #
 .DS_Store
-
+../helloworld/
+../katys_todo_list/
+../mongoDB_coding_challenge/
+../todo/
 # Xcode
 #
 build/
